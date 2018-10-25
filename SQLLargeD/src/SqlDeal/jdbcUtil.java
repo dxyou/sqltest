@@ -17,6 +17,7 @@ import com.mysql.jdbc.*;
 @SuppressWarnings("unused")
 public class jdbcUtil {
 	
+	
 	private final String USERNAME = "MENO";
 	private final String PASSWORD = "12345";
 	private final String LINKURL = "jdbc:mysql://localhost:3306/test?useSSL=false&serverTimezone=GMT%2B8";
